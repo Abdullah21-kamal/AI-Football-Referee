@@ -1,5 +1,8 @@
 # AI-Football-Referee
 An Artificial-intellegince based system that aims to substitute referees. The system uses deep learning models to perform : Action Recognition, Player & ball tracking and bird's eyeview. All of this can be displayed on a website for users to try.
+# Team Meembers: 
+1- Abdullah Kamal  2- Amr Ragab  3- Ibrahim Abdalaal  4- Mohamed Abdelwahed  5- Mohamed Nasr
+
 
 
 ## Table of Contents
